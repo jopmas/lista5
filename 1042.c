@@ -19,6 +19,7 @@ int main(){
 
   int a, b, c;
 
+
 	printf(""); /*inserir a b c*/
 	scanf("%d %d %d", &a, &b ,&c);
 	printf("\n");
